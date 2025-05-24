@@ -36,7 +36,7 @@ Bagaimana mengenali pola pendapatan berdasarkan waktu dan lokasi agar strategi o
 
 - 📦 **Python:** pandas, numpy, geopandas, folium, matplotlib, seaborn
 - 📍 **Branca + GeoJSON:** untuk visualisasi spasial interaktif
-- 📊 **Canva:** untuk desain dan pembuatan grafik presentasi
+- 📊 **Tableu:** untuk desain dan pembuatan dashboard
 - 🗂️ **Jupyter Notebook:** sebagai media eksplorasi dan dokumentasi analisis
 
 ## 📂 Dataset
